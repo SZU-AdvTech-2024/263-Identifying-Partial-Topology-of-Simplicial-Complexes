@@ -1,6 +1,5 @@
 @article{REPO263,
     author = "Fan, Ziye and Wu, Xiaoqun",
-    abstract = "This paper investigates partial topology identification of simplicial complexes based on adaptive synchronization. For the nodes of interest, the interactions that they participate in can be accurately reconstructed by designing adaptive controllers and parameter estimators. Particularly, not only pairwise interactions but a higher-order structure can be effectively recovered by our method. Moreover, a new linear independence condition with a rigorous definition is established for parameter estimators to converge asymptotically to the true values. Numerical simulations on a general two-dimensional simplicial complex as well as a real-world structure are provided to show the validity of the result and discuss the influence of different parameters on the identification process.",
     doi = "10.1063/5.0106943",
     eprint = "https://pubs.aip.org/aip/cha/article-pdf/doi/10.1063/5.0106943/16500184/113128\\_1\\_online.pdf",
     issn = "1054-1500",
