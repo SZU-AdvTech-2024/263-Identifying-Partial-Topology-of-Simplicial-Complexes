@@ -1,14 +1,10 @@
 @article{REPO263,
     author = "Fan, Ziye and Wu, Xiaoqun",
-    doi = "10.1063/5.0106943",
-    eprint = "https://pubs.aip.org/aip/cha/article-pdf/doi/10.1063/5.0106943/16500184/113128\\_1\\_online.pdf",
-    issn = "1054-1500",
     journal = "Chaos: An Interdisciplinary Journal of Nonlinear Science",
     month = "11",
     number = "11",
     pages = "113128",
     title = "{Identifying partial topology of simplicial complexes}",
-    url = "https://doi.org/10.1063/5.0106943",
     volume = "32",
     year = "2022"
 }
